@@ -1,7 +1,8 @@
 
 mod aksk {
-
-
+    pub mod hw_cloud;
+    pub mod tc_cloud;
+    pub mod ali_cloud;
 
 }
 

@@ -8,3 +8,4 @@ description = "AK/SK with Cloud auth"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+reqwest = "0.11.11"
